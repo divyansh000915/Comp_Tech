@@ -26,7 +26,8 @@ void bisection(int a,int b,int c, int d,double m, double n, double ERROR)
         return;
     }
     
-    double o = m;
+    //double o = m;
+    double o=m;
     while ((n-m) >= ERROR)
     {
         
