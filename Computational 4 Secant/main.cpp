@@ -57,7 +57,7 @@ int main()
     
     int fn,a,b,c,d,E;
     double m,n,ERROR;
-    cout << "\t\t\t\t SECANT METHOD\n\t\t\t\t***************\n\n";
+    cout << "\t\t\t\t SECANT METHOD\n\t\t\t\t**********\n\n";
     cout<<"\n\nPlease enter the of decimal places wanted in roots : ";
     cin>>E;
     ERROR = pow(10,-(E+1));
